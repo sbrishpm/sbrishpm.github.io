@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Physics and Mathematics
 published: true
 ---
 #Physics and Mathematics Rules

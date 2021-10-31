@@ -12,5 +12,3 @@ Hello Viewers,
 
 This blog is dedicated to physics and mathematics!
 
-Please visit this post _posts/2021-05-08-Advanced-Mathematics.md
-
